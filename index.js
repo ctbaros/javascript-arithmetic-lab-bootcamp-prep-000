@@ -1,3 +1,3 @@
-add (1,10) {
-  return 1+10;
+add (a,b) {
+  return a+b;
 }
